@@ -1,4 +1,4 @@
-name: Deploy BountyBrain to Pages
+name: Deploy BountyBrain to Pages\n# deployment trigger 2026-10-04
 on:
   push:
     branches: ["main"]
